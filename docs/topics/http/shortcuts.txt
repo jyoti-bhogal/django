@@ -402,3 +402,4 @@ This example is equivalent to::
 .. versionadded:: 6.2
 
 Returns ``'toast'``.
+
